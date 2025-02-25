@@ -1,2 +1,2 @@
 # Shark-Tank-India-
-Data Requirements  Deal details (investment amount, equity %, valuation) Shark information (names, investments made) Pitch information (company name, industry, episode) Season-wise data Success/failure status of deals
+The Shark Tank India Dashboard is a data visualization project designed to analyze and present key insights from the show. Using tools like Power BI/Tableau, SQL, and Python, the dashboard tracks metrics such as total pitches, investments made, success rates, industry-wise funding distribution, and individual shark investments. It helps users identify trends, assess startup valuations, and understand investor preferences, making it a valuable tool for entrepreneurs, investors, and analysts to study business funding patterns in India.
